@@ -75,6 +75,7 @@ main section a:hover {
     font-weight: bolder;
     background-color: darkgrey;
     border-radius: 10px;
+    transition: all .4s;
 }
 
 #footer {
