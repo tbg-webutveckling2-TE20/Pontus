@@ -66,11 +66,14 @@ section a {
     align-items: center;
     height: 100%;
     text-decoration: none;
+    font-size: xx-large;
+    color: rgb(0, 0, 0);
 }
 
 main section a:hover {
-    font-size: 110%;
-    background-color: rgb(255, 238, 0);
+    font-size: 150%;
+    font-weight: bolder;
+    background-color: darkgrey;
     border-radius: 10px;
 }
 
